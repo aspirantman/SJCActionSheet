@@ -8,8 +8,7 @@
 原文传送门 https://github.com/aspirantman/SJCActionSheet
 #
 ## 效果图：
-<div align=center><img width="375" height="667" src="https://github.com/aspirantman/SJCActionSheet/blob/master/WechatIMG357.jpeg?raw=true"/></div>
-<div align=center><img width="375" height="667" src="https://github.com/aspirantman/SJCActionSheet/blob/master/WechatIMG358.jpeg?raw=true"/></div>
+<div align=center><img width="375" height="667" src="https://github.com/aspirantman/SJCActionSheet/blob/master/WechatIMG357.jpeg?raw=true"/></div> <div align=center><img width="375" height="667" src="https://github.com/aspirantman/SJCActionSheet/blob/master/WechatIMG358.jpeg?raw=true"/></div>
 #
 ## Usage
 An example:
